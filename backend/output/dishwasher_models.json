@@ -1,0 +1,352 @@
+[
+  {
+    "model_number": "003719074",
+    "name": "003719074 Midea Dishwasher",
+    "brand": "Midea",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/003719074/"
+  },
+  {
+    "model_number": "003719075",
+    "name": "003719075 Midea Dishwasher",
+    "brand": "Midea",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/003719075/"
+  },
+  {
+    "model_number": "004621710A",
+    "name": "004621710A Frigidaire Dishwasher",
+    "brand": "Frigidaire",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/004621710A/"
+  },
+  {
+    "model_number": "004621711A",
+    "name": "004621711A Frigidaire Dishwasher",
+    "brand": "Frigidaire",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/004621711A/"
+  },
+  {
+    "model_number": "1006",
+    "name": "1006 Frigidaire Dishwasher",
+    "brand": "Frigidaire",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/1006/"
+  },
+  {
+    "model_number": "1026",
+    "name": "1026 Frigidaire Dishwasher",
+    "brand": "Frigidaire",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/1026/"
+  },
+  {
+    "model_number": "1035B",
+    "name": "1035B Frigidaire Dishwasher",
+    "brand": "Frigidaire",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/1035B/"
+  },
+  {
+    "model_number": "1037B",
+    "name": "1037B Frigidaire Dishwasher",
+    "brand": "Frigidaire",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/1037B/"
+  },
+  {
+    "model_number": "1077B",
+    "name": "1077B Frigidaire Dishwasher",
+    "brand": "Frigidaire",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/1077B/"
+  },
+  {
+    "model_number": "1086AB",
+    "name": "1086AB Frigidaire Dishwasher",
+    "brand": "Frigidaire",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/1086AB/"
+  },
+  {
+    "model_number": "11055610",
+    "name": "11055610 Kenmore Dishwasher",
+    "brand": "Kenmore",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/11055610/"
+  },
+  {
+    "model_number": "11055614",
+    "name": "11055614 Kenmore Dishwasher",
+    "brand": "Kenmore",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/11055614/"
+  },
+  {
+    "model_number": "11056171",
+    "name": "11056171 Kenmore Dishwasher",
+    "brand": "Kenmore",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/11056171/"
+  },
+  {
+    "model_number": "11056172",
+    "name": "11056172 Kenmore Dishwasher",
+    "brand": "Kenmore",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/11056172/"
+  },
+  {
+    "model_number": "11056464",
+    "name": "11056464 Kenmore Dishwasher",
+    "brand": "Kenmore",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/11056464/"
+  },
+  {
+    "model_number": "110723120",
+    "name": "110723120 Kenmore Dishwasher",
+    "brand": "Kenmore",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/110723120/"
+  },
+  {
+    "model_number": "110773811",
+    "name": "110773811 Kenmore Dishwasher",
+    "brand": "Kenmore",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/110773811/"
+  },
+  {
+    "model_number": "110773812",
+    "name": "110773812 Kenmore Dishwasher",
+    "brand": "Kenmore",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/110773812/"
+  },
+  {
+    "model_number": "110773813",
+    "name": "110773813 Kenmore Dishwasher",
+    "brand": "Kenmore",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/110773813/"
+  },
+  {
+    "model_number": "110773881",
+    "name": "110773881 Kenmore Dishwasher",
+    "brand": "Kenmore",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/110773881/"
+  },
+  {
+    "model_number": "110773882",
+    "name": "110773882 Kenmore Dishwasher",
+    "brand": "Kenmore",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/110773882/"
+  },
+  {
+    "model_number": "110773883",
+    "name": "110773883 Kenmore Dishwasher",
+    "brand": "Kenmore",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/110773883/"
+  },
+  {
+    "model_number": "11087419",
+    "name": "11087419 Kenmore Dishwasher",
+    "brand": "Kenmore",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/11087419/"
+  },
+  {
+    "model_number": "1200L02",
+    "name": "1200L02 General Electric Dishwasher",
+    "brand": null,
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/1200L02/"
+  },
+  {
+    "model_number": "1236B",
+    "name": "1236B Frigidaire Dishwasher",
+    "brand": "Frigidaire",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/1236B/"
+  },
+  {
+    "model_number": "1236C",
+    "name": "1236C Frigidaire Dishwasher",
+    "brand": "Frigidaire",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/1236C/"
+  },
+  {
+    "model_number": "1266B",
+    "name": "1266B Frigidaire Dishwasher",
+    "brand": "Frigidaire",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/1266B/"
+  },
+  {
+    "model_number": "1266C",
+    "name": "1266C Frigidaire Dishwasher",
+    "brand": "Frigidaire",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/1266C/"
+  },
+  {
+    "model_number": "14673",
+    "name": "14673 LG Dishwasher",
+    "brand": "LG",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/14673/"
+  },
+  {
+    "model_number": "14677",
+    "name": "14677 LG Dishwasher",
+    "brand": "LG",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/14677/"
+  },
+  {
+    "model_number": "14697",
+    "name": "14697 LG Dishwasher",
+    "brand": "LG",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/14697/"
+  },
+  {
+    "model_number": "18081",
+    "name": "18081 Kenmore Dishwasher",
+    "brand": "Kenmore",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/18081/"
+  },
+  {
+    "model_number": "18385",
+    "name": "18385 Kenmore Dishwasher",
+    "brand": "Kenmore",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/18385/"
+  },
+  {
+    "model_number": "18585",
+    "name": "18585 Kenmore Dishwasher",
+    "brand": "Kenmore",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/18585/"
+  },
+  {
+    "model_number": "186851988",
+    "name": "186851988 Kenmore Dishwasher",
+    "brand": "Kenmore",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/186851988/"
+  },
+  {
+    "model_number": "18885",
+    "name": "18885 Kenmore Dishwasher",
+    "brand": "Kenmore",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/18885/"
+  },
+  {
+    "model_number": "18985",
+    "name": "18985 Kenmore Dishwasher",
+    "brand": "Kenmore",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/18985/"
+  },
+  {
+    "model_number": "19385",
+    "name": "19385 Kenmore Dishwasher",
+    "brand": "Kenmore",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/19385/"
+  },
+  {
+    "model_number": "19495",
+    "name": "19495 Kenmore Dishwasher",
+    "brand": "Kenmore",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/19495/"
+  },
+  {
+    "model_number": "19585",
+    "name": "19585 Kenmore Dishwasher",
+    "brand": "Kenmore",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/19585/"
+  },
+  {
+    "model_number": "19595",
+    "name": "19595 Kenmore Dishwasher",
+    "brand": "Kenmore",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/19595/"
+  },
+  {
+    "model_number": "19995",
+    "name": "19995 Kenmore Dishwasher",
+    "brand": "Kenmore",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/19995/"
+  },
+  {
+    "model_number": "2212413N414",
+    "name": "2212413N414 Kenmore Dishwasher",
+    "brand": "Kenmore",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/2212413N414/"
+  },
+  {
+    "model_number": "2213092N413",
+    "name": "2213092N413 Kenmore Dishwasher",
+    "brand": "Kenmore",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/2213092N413/"
+  },
+  {
+    "model_number": "2213093N413",
+    "name": "2213093N413 Kenmore Dishwasher",
+    "brand": "Kenmore",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/2213093N413/"
+  },
+  {
+    "model_number": "2213099N413",
+    "name": "2213099N413 Kenmore Dishwasher",
+    "brand": "Kenmore",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/2213099N413/"
+  },
+  {
+    "model_number": "2213222N414",
+    "name": "2213222N414 Kenmore Dishwasher",
+    "brand": "Kenmore",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/2213222N414/"
+  },
+  {
+    "model_number": "2213223N414",
+    "name": "2213223N414 Kenmore Dishwasher",
+    "brand": "Kenmore",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/2213223N414/"
+  },
+  {
+    "model_number": "2213229N414",
+    "name": "2213229N414 Kenmore Dishwasher",
+    "brand": "Kenmore",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/2213229N414/"
+  },
+  {
+    "model_number": "2213472N413",
+    "name": "2213472N413 Kenmore Dishwasher",
+    "brand": "Kenmore",
+    "appliance_type": "Dishwasher",
+    "source_url": "https://www.partselect.com/Models/2213472N413/"
+  }
+]
